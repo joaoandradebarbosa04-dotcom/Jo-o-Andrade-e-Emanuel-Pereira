@@ -1,0 +1,24 @@
+.indentificação{
+    background-color: antiquewhite;
+}
+.img{ width: 50%;}
+body{
+background-color: antiquewhite;
+color: aqua;
+display: flex;
+align-items: baseline;
+
+
+}
+.links{
+    display: flex;
+    flex-direction: column;
+}
+a{
+margin: 20px;
+padding: 20px;
+background-color: aqua;
+color: aqua;
+
+
+}
